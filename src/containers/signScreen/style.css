@@ -1,0 +1,39 @@
+.form-input {
+    display: flex ;
+    align-content: center;
+    justify-content: center ;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 50;
+}
+
+.form-button {
+    outline: none;
+    background-color: #1dbfaf;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+    width: 30%;
+    font-size: 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    align-content: center;
+    justify-content: center ;
+    width: 120px;
+    margin: 10px;
+    
+}
+.button-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.form-label {
+    margin-right:10px;
+}
