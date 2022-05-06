@@ -50,8 +50,10 @@ export default function Signup() {
       </div>
 
       <div className="form-text">
-        <p>Have a account ?</p>
-        <Link to="/signin">signin</Link>
+        <p className="text">Have a account ?</p>
+        <Link className="form-link" to="/signin">
+          Signin
+        </Link>
       </div>
     </SignupeWraper>
   );
